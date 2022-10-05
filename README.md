@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Shopify projects
+- 🔭 I'm a FullStack Web Developer and currently working on Shopify projects
 - 🌱 I’m currently learning React
 - 💬 Ask me about shopify store setup
 - 📫 How to reach me: https://www.linkedin.com/in/germain-akenji-chi-2a909aab/
