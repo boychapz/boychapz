@@ -3,7 +3,7 @@
 
 - 🔭 I'm a FullStack Web Developer and currently working on Shopify projects
 - 🌱 I’m currently learning React
-- 💬 Ask me about shopify store setup
+- 💬 Ask me about any thing shopify
 - 📫 How to reach me: https://www.linkedin.com/in/germain-akenji-chi-2a909aab/
 
 <p>Welcome to my page! </br> I'm Germain, Fullstack developer, currently living in <img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="13"/> <b>Minnesota, USA</b>. </p>
